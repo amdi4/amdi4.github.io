@@ -1,0 +1,32 @@
+div {
+    margin-bottom: 12px;
+}
+ul li {
+    margin-bottom: 0px;
+}
+h1, h2, h3 {
+    font-weight: 200px;
+}
+h1 {
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+h2 {
+    font-size: 32px;
+    margin-bottom: 8px;
+    border-bottom-width: 1px; /* Толщина линии внизу */
+    border-bottom-style: solid; /* Стиль линии внизу */
+    border-bottom-color: grey;
+}
+h3 {
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+#header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+#footer {
+    margin-top: 64px;
+    text-align: center;
+}
